@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About"
+  - title: "소개"
     url: /
-  - title: "Blog"
+  - title: "지식정리"
     url: /blog/
   - title: "Category"
     url: /categories/

@@ -17,3 +17,45 @@
 .small-text {
   font-size: 0.7em;
 }
+
+/* 헤더 고정 + 전체 스타일 */
+.masthead { 
+  background-color: #2c3e50 !important; /* 남색 */
+  position: fixed !important; 
+  top: 0 !important; 
+  width: 100% !important; 
+  z-index: 2000 !important; 
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15); /* 깔끔한 그림자 */
+}
+
+/* 안쪽 높이 조절 */
+.masthead__inner-wrap {
+  padding: 5px 0 !important; /* 상하 여백 조절 */
+}
+
+/* 네비게이션 바 */
+.greedy-nav {
+  background-color: #2c3e50 !important; /* 남색 */
+  min-height: 45px !important;
+  line-height: 45px !important;
+}
+
+/* 메뉴 텍스트 색상 */
+.greedy-nav a, 
+.site-title { 
+  color: #ffffff !important; 
+}
+
+/* 로고 크기 조정 */
+.site-logo img,
+.masthead__logo img {
+  height: 40px !important; /* 크기를 40px로 확대 */
+  margin: 0 !important; /* 이미지 주변 여백 제거 */
+  padding: 0 !important; /* 이미지 안쪽 여백 제거 */
+  background-color: transparent !important;
+}
+
+/* 본문이 헤더 뒤에 가리지 않게 */
+body { 
+  padding-top: 60px !important; 
+}
