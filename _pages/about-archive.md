@@ -22,11 +22,11 @@ toc: true
  - 실무 운용 프로세스 구축
 
 <p style="font-size:0.8em; margin-bottom: -5px;">
-웹 제작(비용 최소화)<br>
+웹 개발<br>
 </p>
 
 {: .small-list}
- - [web 셈플 클릭](https://myweb-cf9.pages.dev/) https://myweb-cf9.pages.dev/
+ - <a href="https://myweb-cf9.pages.dev" style="color: #4285f4; font-weight: bold;">회사 홈페이지(셈플) 클릭</a>&nbsp;<small style="font-size:0.9em;">[https://myweb-cf9.pages.dev]</small>
  - 정식 배포 시: 백엔드 및 DB 기능 포함 [관리자, 공지, 첨부파일(금감원 재무보고)] 
 
 ## <<기업 중국 진출 실무 지원>>
@@ -48,10 +48,12 @@ toc: true
 ## <<수학강의>>
 {: .text-center}
 
-<p style="font-size:0.8em;"><strong>수업의 목표:</strong><br></p>
-<div style="font-size: 0.7em;">
-  <p> 중고등 수학 개념 그래프로 시각화하여 직관적으로 이해 - 함수, 방정식, 부등식, 미적분 등을 단순 숫자 공식이 아닌 기하학적으로 이해</p>
-  
+<p style="font-size:0.8em; margin-bottom: 0px;"><strong>수업 목표</strong></p>
+{: .text-center}
+
+<p style="font-size: 0.6em; text-align:center; text-decoration: underline;"> 중고등 수학 개념 그래프로 시각화하여 직관적으로 이해 - 공식을 기하학적으로 이해</p>
+
+<div style="font-size: 0.6em; ">
   <ol>
     <li>함수와 그래프 대응 '관계' 이해
       <ul>
@@ -60,8 +62,12 @@ toc: true
     </li>
     <li>그래프로 보는 방정식과 부등식
       <ul>
-        <li>방정식의 해 = 그래프 교점</li>
-        <li>부등식의 해집합 = 그래프의 위치 관계</li>
+        <li>[방정식의 해 = 그래프 교점] & [부등식의 해집합 = 그래프의 위치 관계] </li>
+      </ul>
+    </li>
+        <li>수열과 극한의 패턴
+      <ul>
+        <li>[수열의 그래프적 이해] & [극한의 시각적 접근]</li>
       </ul>
     </li>
     <li>기하학적으로 이해하는 미적분
@@ -70,11 +76,18 @@ toc: true
         <li>적분 - 그래프 아래 넓이(누적량)</li>
       </ul>
     </li>
+    <li>기하와 벡터의 공간
+      <ul>
+        <li>좌표평면, 이차공선 시각화</li>
+        <li>벡터의 기하학적 의미</li>
+     </ul>
+    </li>
   </ol>
-</div>
+  </div>
 
 
-<p style="font-size: 0.8em;"><strong>세부 수업방식</strong><br></p>
+<p style="font-size: 0.8em; margin-top:30px; margin-bottom: 0px;"><strong>세부 수업방식</strong><br></p>
+{: .text-center}
 
 
 <p style="font-size: 0.6em; margin-bottom: 0px;">상호 점검:</p>
@@ -84,9 +97,11 @@ toc: true
   <li>안다고 착각할 만한 부분 재점검</li>
 </ul>
 
-<a href="https://yihojin.com/math/first/" style="color: #4285f4; font-weight: bold;">적분 강의 자료</a>
+<a href="https://yihojin.com/math/first/" style="color: #4285f4; font-weight: bold;">적분 학습 자료[sample]</a>
+{: .text-center}
 
-<p style="font-size: 0.6em; margin-bottom: 1px">ex)&nbsp; $i^2$는 -1이라는 원칙으로 4번 마다 반복되는 패턴 이해, 해당 패턴 원칙으로 복소평면에서 그래프로 직관적인 이해, 간단한 삼각함수 원리 등을 종합해서 신호와 파동 등 분야에 어떻게 활용이 되는지 이해</p>
+<!--
+<p style="font-size: 0.6em; margin-bottom: 1px">ex)&nbsp; $i^2$는 -1에서 4개의 값으로 반복되는 패턴을 복소평면에서 그래프에 활용, 삼각함수 원리 등을 이용해서 신호와 파동 등 분야에 어떻게 활용이 되는지 이해</p>
 <div style="font-size: 0.6em;">
 
 $i^{4n-1} = i^3 = -i$<br>
@@ -95,7 +110,7 @@ $i^{4n-3} = i^1 = \sqrt{-1} = i$<br>
 $i^{4n} = i^4 = 1$<br><br>
 
 </div>
-
+-->
 
 
 
