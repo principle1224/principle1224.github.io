@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "YHJ"
-  avatar           : "/assets/images/profile1-3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile1-1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<b>프로젝트 의뢰:</b> <br><br> - <b>신규 운용사 실무 자문</b><br> &nbsp; &nbsp; &nbsp;[운용역 실무 경력 보유]<br>- <b>기업 중국 진출 실무(통번역 등 지원)</b><br> &nbsp;&nbsp;&nbsp;[중국 거주 10년 이상]<br> - <b>웹 front & backend 개발</b><br>- <b>수학강의(중고등 수학 개념)</b><br><br>"
   location         : "SEOUL"
   email            :
