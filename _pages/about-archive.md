@@ -14,20 +14,20 @@ toc: true
 {: .text-center}
 
 <p style="font-size:0.8em; margin-bottom: -5px;">
-신규 운용사 실무 지원(소요 시간 1~2달)<br>
+신규 운용사 실무 지원<br>
 </p>
 
 {: .small-list}
- - 펀드 설정 및 규제 대응 실무 지원
- - 운용 프로세스 구축
+ - 등록, 펀드 설정 등 실무 지원
+ - 실무 운용 프로세스 구축
 
-
-<p style="font-size:0.8em; margin-top: 30px; margin-bottom: -10px;">보유역량:</p>
+<p style="font-size:0.8em; margin-bottom: -5px;">
+웹 제작(비용 최소화)<br>
+</p>
 
 {: .small-list}
- - 자산운용사 운용역 실무 경험 보유
-
-
+ - [web 셈플 클릭](https://myweb-cf9.pages.dev/) https://myweb-cf9.pages.dev/
+ - 정식 배포 시: 백엔드 및 DB 기능 포함 [관리자, 공지, 첨부파일(금감원 재무보고)] 
 
 ## <<기업 중국 진출 실무 지원>>
 {: .text-center}
@@ -35,20 +35,13 @@ toc: true
 <p style="font-size:0.8em; margin-bottom: -5px;">국내 기업의 중국 진출 실무 지원</p>
 
 {: .small-list}
- - 중국 현지 B2B 파트너사 발굴 및 접촉
+ - 중국 현지 B2B 파트너사 발굴 및 접촉, 전략 제시
  - 통번역 지원
 
-
-<p style="font-size:0.8em; margin-top: 30px; margin-bottom: -10px;">보유역량:</p>
-
-{: .small-list}
- - 중국 현지 거주 기간 10년 이상
 
 
 <p style="text-align: center; font-size:0.9em; margin-bottom: 0px;"><strong>기업 IR 등 관련 활동 자료</strong></p>
 ![프로필 이미지](/assets/images/profile/profile.png)
-
-
 
 
 
@@ -90,6 +83,8 @@ toc: true
   <li>토론 및 학습 후 자기설명 수업 방식 진행[프로테제 효과]</li>
   <li>안다고 착각할 만한 부분 재점검</li>
 </ul>
+
+<a href="https://yihojin.com/math/first/" style="color: #4285f4; font-weight: bold;">적분 강의 자료</a>
 
 <p style="font-size: 0.6em; margin-bottom: 1px">ex)&nbsp; $i^2$는 -1이라는 원칙으로 4번 마다 반복되는 패턴 이해, 해당 패턴 원칙으로 복소평면에서 그래프로 직관적인 이해, 간단한 삼각함수 원리 등을 종합해서 신호와 파동 등 분야에 어떻게 활용이 되는지 이해</p>
 <div style="font-size: 0.6em;">
