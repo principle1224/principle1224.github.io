@@ -2,7 +2,7 @@
 main:
   - title: "소개"
     url: /
-  - title: "지식정리"
+  - title: "학습자료"
     url: /blog/
   - title: "Category"
     url: /categories/
