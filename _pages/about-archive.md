@@ -51,7 +51,7 @@ toc: true
 <p style="font-size:0.8em; margin-bottom: 0px;"><strong>수업 목표</strong></p>
 {: .text-center}
 
-<p style="font-size: 0.6em; text-align:center; text-decoration: underline;"> 중고등 수학 개념 그래프로 시각화하여 직관적으로 이해 - 공식을 기하학적으로 이해</p>
+<p style="font-size: 0.7em; text-align:center; text-decoration: underline;"> 중고등 수학 개념 그래프로 시각화하여 직관적으로 이해 - 공식을 기하학적으로 이해</p>
 
 <div style="font-size: 0.6em; ">
   <ol>
