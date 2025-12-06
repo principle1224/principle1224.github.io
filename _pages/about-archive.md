@@ -13,26 +13,35 @@ toc: true
 ## <<신규운용사 펀드 실무 지원>>
 {: .text-center}
 
-<p style="font-size:0.8em; margin-bottom: -5px;">
+<p style="font-size:0.8em; margin-bottom: -15px;">
 신규 운용사 실무 지원<br>
 </p>
 
 {: .small-list}
  - 등록, 펀드 설정 등 실무 지원
- - 실무 운용 프로세스 구축
+ - 펀드 운용 프로세스 구축
 
-<p style="font-size:0.8em; margin-bottom: -5px;">
+<p style="font-size:0.8em; margin-top: 20px; margin-bottom: -15px;">
 웹 개발<br>
 </p>
 
 {: .small-list}
  - <a href="https://myweb-cf9.pages.dev" style="color: #4285f4; font-weight: bold;">회사 홈페이지(셈플) 클릭</a>&nbsp;<small style="font-size:0.9em;">[https://myweb-cf9.pages.dev]</small>
- - 정식 배포 시: 백엔드 및 DB 기능 포함 [관리자, 공지, 첨부파일(금감원 재무보고)] 
+ - 정식 배포 시: Backend DataBase 기능 포함 <br> [관리자 페이지, 공지, 첨부파일(투자신탁 등의 공시)] 
+
+<p style="font-size:0.6em; margin-top: 20px; margin-bottom: -15px;">[기타]
+재무모델링 자료 공유<br>
+</p>
+
+{: .small-list}
+- <a href="/assets/files/excel/financial_modeling.xlsx" class="simple-download" download>
+  ↓ [sample] 기업재무모델링.xlsx
+</a>
 
 ## <<기업 중국 진출 실무 지원>>
 {: .text-center}
 
-<p style="font-size:0.8em; margin-bottom: -5px;">국내 기업의 중국 진출 실무 지원</p>
+<p style="font-size:0.8em; margin-bottom: -15px;">국내 기업의 중국 진출 실무 지원</p>
 
 {: .small-list}
  - 중국 현지 B2B 파트너사 발굴 및 접촉, 전략 제시
@@ -51,7 +60,7 @@ toc: true
 <p style="font-size:0.8em; margin-bottom: 0px;"><strong>수업 목표</strong></p>
 {: .text-center}
 
-<p style="font-size: 0.7em; text-align:center; text-decoration: underline;"> 중고등 수학 개념 그래프로 시각화하여 직관적으로 이해 - 공식을 기하학적으로 이해</p>
+<p style="font-size: 0.7em; text-align:center; text-decoration: underline;"> 중고등 수학 개념 및 공식 시각화하여 이해</p>
 
 <div style="font-size: 0.6em; ">
   <ol>
