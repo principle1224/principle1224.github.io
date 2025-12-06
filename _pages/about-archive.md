@@ -26,7 +26,7 @@ toc: true
 </p>
 
 {: .small-list}
- - <a href="https://myweb-cf9.pages.dev" style="color: #4285f4; font-weight: bold;">회사 홈페이지(셈플) 클릭</a>&nbsp;<small style="font-size:0.9em;">[https://myweb-cf9.pages.dev]</small>
+ - <a href="https://myweb-cf9.pages.dev" style="color: #4285f4; font-weight: bold;">회사 홈페이지(셈플) 클릭</a>&nbsp;<small style="font-size:0.9em;">[https://myweb-cf9.pages.dev]</small><br><a href="https://github.com/principle1224/myweb/tree/main/frontend" class="code-source-link">코드 소스 공유</a>
  - 정식 배포 시: Backend DataBase 기능 포함 <br> [관리자 페이지, 공지, 첨부파일(투자신탁 등의 공시)] 
 
 <p style="font-size:0.6em; margin-top: 20px; margin-bottom: -15px;">[기타]
