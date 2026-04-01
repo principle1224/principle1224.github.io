@@ -46,8 +46,7 @@ toc: true
  - 회계: 금융기관 재무제표 작성 및 금융감독원 보고 (ECOUNT ERP 활용)
  - 펀드회계·운용지원 프로세스 전반
 
-<p style="font-size:0.6em; margin-top: 20px; margin-bottom: -10px;">[포트폴리오]
-재무모델링<br>
+<p style="font-size:0.6em; margin-top: 20px; margin-bottom: -10px;">[포트폴리오]<br>
 </p>
 
 {: .small-list}
