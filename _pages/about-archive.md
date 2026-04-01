@@ -13,15 +13,6 @@ toc: true
 ## <<Financial Expertise>>
 {: .text-center}
 
-<p style="font-size:0.8em; margin-bottom: -10px;">
-주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
-</p>
-
-{: .small-list}
- - 투자운용: 펀드 설정·운용 실무 전 과정 총괄(상장·비상장 증권 양수도, IPO, 채권 등)
- - 퀀트투자: 시스템 개발을 통한 투자 운용적용
- - 고유자산 책임 운용을 통한 자기자본 흑자전환 기여 (2020)
- 
  <p style="text-align: center; font-size:0.7em; margin-bottom: 0px;">
   <strong>펀드 운용역 프로필</strong>
 </p>
@@ -35,7 +26,15 @@ toc: true
   >
 </div>
 
+<p style="font-size:0.8em; margin-bottom: -10px;">
+주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
+</p>
 
+{: .small-list}
+ - 투자운용: 펀드 설정·운용 실무 전 과정 총괄(상장·비상장 증권 양수도, IPO, 채권 등)
+ - 퀀트투자: 시스템 개발을 통한 투자 운용적용
+ - 고유자산 책임 운용을 통한 자기자본 흑자전환 기여 (2020)
+ 
 <p style="font-size:0.8em; margin-bottom: -10px;">
 금융분야 보유기술<br>
 </p>
