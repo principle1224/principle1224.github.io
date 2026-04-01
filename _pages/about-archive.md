@@ -26,6 +26,7 @@ toc: true
   >
 </div>
 
+<div style="margin-bottom: 5px;"></div>
 
 <p style="font-size:0.8em; margin-bottom: -10px;">
 주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
@@ -54,9 +55,9 @@ toc: true
   ↓ [sample] 기업재무모델링.xlsx
 </a>
 
-- <span style="cursor: pointer; color: #4285f4; font-weight: bold;" onclick="openImage('/assets/images/quant.png')">
-  퀀트 실무 샘플 [이미지 클릭]
-</span>
+- <a href="javascript:void(0)" class="simple-download" onclick="openImage('/assets/images/profile/quant.png')">
+  ↓ 퀀트 실무 샘플 [이미지 클릭]
+</a>
 
 
 ## <<Cross-border Business Execution>>
