@@ -26,7 +26,7 @@ toc: true
   >
 </div>
 
-<br>
+
 <p style="font-size:0.8em; margin-bottom: -10px;">
 주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
 </p>
