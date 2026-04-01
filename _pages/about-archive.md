@@ -28,7 +28,7 @@ toc: true
 
 <div style="text-align: center;">
   <img 
-    src="/assets/images/profile/profile.png"
+    src="/assets/images/profile/fundprofile.png"
     alt="프로필 이미지"
     style="max-width: 500px; width: 100%; height: auto; cursor: pointer;"
     onclick="openImage(this.src)"
@@ -42,7 +42,7 @@ toc: true
 
 {: .small-list}
  - 퀀트: 통계 및 퀀트 분석_시스템 개발 및 투자운용 적용
- - 재무: 재무 모델링(DCF, 상대가치)
+ - 재무: 재무 모델링(DCF, 상대가치, 대체투자 etc)
  - 회계: 금융기관 재무제표 작성 및 금융감독원 보고 (ECOUNT ERP 활용)
  - 펀드회계·운용지원 프로세스 전반
 
@@ -161,6 +161,7 @@ Native-level Chinese | Business English</p>
 <p style="font-size:0.8em; margin-bottom: -10px;">
 프로그래밍/네트워크 보유기술<br>
 </p>
+
 
 ```
 #  C, Python, SQL, Javascript, Node.Js, mongodb, Linux, Docker, AWS etc
