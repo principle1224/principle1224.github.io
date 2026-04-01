@@ -161,8 +161,6 @@ Native-level Chinese | Business English</p>
 <p style="font-size:0.8em; margin-bottom: -10px;">
 프로그래밍/네트워크 보유기술<br>
 </p>
-
-
 ```
 #  C, Python, SQL, Javascript, Node.Js, mongodb, Linux, Docker, AWS etc
 ```
