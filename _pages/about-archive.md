@@ -101,7 +101,7 @@ Native-level Chinese | Business English</p>
  - <a href="https://rl-ppo-dash.streamlit.app/" style="color: #4285f4; font-weight: bold;">[포트폴리오2] Deep Learning 자산배분 강화학습 포트폴리오</a>
  - <a href="/assets/files/excel/deeplearning_행렬미분_원리구현.xlsm" style="color: #4285f4; font-weight: bold;" download>
   [포트폴리오3_VBA 엑셀] deeplearning_행렬미분_원리구현.xlsx  [엑셀자료 ↓]</a>
- - <a href="/assets/files/excel/[금융수학]미분원리_채권튜레이션.xlsm" style="color: #4285f4; font-weight: bold;" download>
+ - <a href="/assets/files/excel/[금융수학]미분원리_채권듀레이션.xlsm" style="color: #4285f4; font-weight: bold;" download>
   [포트폴리오4_엑셀] 금융수학_미분_원리_채권튜레이션.xlsx  [엑셀자료 ↓]
 </a>
 
