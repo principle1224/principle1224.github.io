@@ -14,7 +14,7 @@ toc: true
 {: .text-center}
 
  <p style="text-align: center; font-size:0.7em; margin-bottom: 0px;">
-  <strong>펀드 운용역 프로필</strong>
+  <strong>프로필</strong>
 </p>
 
 <div style="text-align: center;">
@@ -26,6 +26,7 @@ toc: true
   >
 </div>
 
+<br>
 <p style="font-size:0.8em; margin-bottom: -10px;">
 주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
 </p>
@@ -157,9 +158,10 @@ Native-level Chinese | Business English</p>
  - <a href="https://myweb-cf9.pages.dev" style="color: #4285f4; font-weight: bold;">회사 홈페이지(frontend 배포)</a>&nbsp;<small style="font-size:0.9em;"></small><a href="https://github.com/principle1224/myweb/tree/main/frontend" class="code-source-link">&nbsp; 코드 공유</a>
  - 배포 시: Backend DataBase 기능 포함 <br> [관리자 페이지, 공지, 첨부파일(투자신탁 등의 공시)] 
 
-<p style="font-size:0.8em; margin-bottom: -10px;">
+<p style="font-size:0.8em; margin-bottom: 5px;">
 프로그래밍/네트워크 보유기술<br>
 </p>
+
 ```
 #  C, Python, SQL, Javascript, Node.Js, mongodb, Linux, Docker, AWS etc
 ```
