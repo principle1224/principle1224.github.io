@@ -55,6 +55,19 @@ toc: true
   ↓ [sample] 기업재무모델링.xlsx
 </a>
 
+<p style="text-align: center; font-size:0.7em; margin-bottom: 0px;">
+  <strong>퀀트 실무 <span style="font-size:0.7em;">[이미지 클릭]</span></strong>
+</p>
+
+<div style="text-align: center;">
+  <img 
+    src="/assets/images/quant.png"
+    alt="재무모델링 샘플"
+    style="max-width: 500px; width: 100%; height: auto; cursor: pointer;"
+    onclick="openImage(this.src)"
+  >
+</div>
+
 ## <<Cross-border Business Execution>>
 {: .text-center}
 
