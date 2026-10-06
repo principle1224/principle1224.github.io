@@ -51,7 +51,7 @@ toc: true
 
 {: .small-list}
 - <a href="javascript:void(0)" class="simple-download" onclick="openImage('/assets/images/profile/im.png')">
-  ↓ 투자제안서_작성 시각화 웹앱 활용  [이미지 클릭]
+  ↓ 투자제안서_작성 시각화 웹앱 활용 _ QR 링크  [이미지 클릭]
 </a>
 
 - <a href="/assets/files/excel/financial_modeling.xlsx" class="simple-download" download>
