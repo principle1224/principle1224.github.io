@@ -27,15 +27,16 @@ toc: true
 </div>
 
 <div style="margin-bottom: 5px;"></div>
-
+<!--
 <p style="font-size:0.8em; margin-bottom: -10px;">
 주요 경력: 자산운용사 투자 책임 운용역 | 퀀트 투자 전략 실무<br>
-</p>
-
+</p>-->
+<!--
 {: .small-list}
  - 투자운용: 펀드 설정·운용 실무 과정 담당(상장·비상장 증권 양수도, IPO, 메자닌, 채권 등)
  - 퀀트투자: 정량적 분석 및 핉터링 활용
  - 성과: 고유자산 운용 _ 자기자본 흑자전환 기여 & 대표 운용역 _ 기존 AUM 17억 -> 300억 이상  (2020)
+ -->
  
 <p style="font-size:0.8em; margin-bottom: -10px;">
 금융분야 보유기술<br>
@@ -43,9 +44,7 @@ toc: true
 
 {: .small-list}
  - 퀀트: 통계 및 퀀트 분석_시스템 개발 및 투자운용 적용
- - 재무: 재무 모델링(DCF, 상대가치, 대체투자 etc)
- - 회계: 금융기관 재무제표 작성 및 금융감독원 보고 (ECOUNT ERP 활용)
- - 펀드회계·운용지원 프로세스 전반
+ - 재무회계: 재무 모델링 & 재무제표 작성 및 금융감독원 보고(ECOUNT ERP 활용)
 
 <p style="font-size:0.6em; margin-top: 20px; margin-bottom: -10px;">[포트폴리오]<br>
 </p>
