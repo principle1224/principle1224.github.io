@@ -43,8 +43,8 @@ toc: true
 </p>
 
 {: .small-list}
- - 퀀트: 통계 및 퀀트 분석_시스템 개발 및 투자운용 적용
- - 재무회계: 재무 모델링 & 재무제표 작성 및 금융감독원 보고(ECOUNT ERP 활용)
+ - 금융: 펀드운용, 퀀트분석, 주식/채권/메자닌 증권/IPO 투자 운용
+ - 재무회계: 재무분석/모델링 & 재무제표 작성 및 금융감독원 보고(ECOUNT ERP 활용)
 
 <p style="font-size:0.6em; margin-top: 20px; margin-bottom: -10px;">[포트폴리오]<br>
 </p>
