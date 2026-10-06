@@ -50,6 +50,10 @@ toc: true
 </p>
 
 {: .small-list}
+- <a href="javascript:void(0)" class="simple-download" onclick="openImage('/assets/images/profile/IM_COVERDCALL.png')">
+  ↓ 투자제안서_작성 시각화 웹앱 활용  [이미지 클릭]
+</a>
+
 - <a href="/assets/files/excel/financial_modeling.xlsx" class="simple-download" download>
   ↓ [sample] 기업재무모델링.xlsx
 </a>
