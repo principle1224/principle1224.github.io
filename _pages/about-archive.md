@@ -33,9 +33,9 @@ toc: true
 </p>
 
 {: .small-list}
- - 투자운용: 펀드 설정·운용 실무 전 과정 총괄(상장·비상장 증권 양수도, IPO, 채권 등)
- - 퀀트투자: 시스템 개발을 통한 투자 운용적용
- - 고유자산 책임 운용을 통한 자기자본 흑자전환 기여 (2020)
+ - 투자운용: 펀드 설정·운용 실무 과정 담당(상장·비상장 증권 양수도, IPO, 메자닌, 채권 등)
+ - 퀀트투자: 정량적 분석 및 핉터링 활용
+ - 성과 | 고유자산 운용 _ 자기자본 흑자전환 기여 & 대표 운용역 _ 기존 AUM 17억 -> 300억 이상  (2020)
  
 <p style="font-size:0.8em; margin-bottom: -10px;">
 금융분야 보유기술<br>
@@ -68,7 +68,6 @@ Native-level Chinese | Business English</p>
 
 {: .small-list}
  - 기업 해외 진출 전략 기획 및 IR 피칭 직접 실행
- - 해외 B2B 파트너십 발굴 및 협상 리드
  - Cross-border 투자 거래 발굴
 
 <p style="text-align: center; font-size:0.7em; margin-bottom: 0px;">
@@ -92,23 +91,21 @@ Native-level Chinese | Business English</p>
 </p>
 
 {: .small-list}
- - 데이터 통계 분석 시각화 웹앱 개발
- - 딥러닝 자산배분 강화학습 구현 및 시각화
+ - 데이터 통계 분석
  - AI/ML 주요 알고리즘의 수학 원리 구현 경험
- - 퀀트 전략 개발 및 백테스팅
 
 <p style="font-size:0.8em; margin-top: 20px; margin-bottom: -10px;">
 개발 포트폴리오 [첨부파일]<br>
 </p>
 
 {: .small-list}
- - <a href="https://churn-behavior-statistical-report.streamlit.app/" style="color: #4285f4; font-weight: bold;">[포트폴리오1] 통계분석 리포트 </a>
- - <a href="https://rl-ppo-dash.streamlit.app/" style="color: #4285f4; font-weight: bold;">[포트폴리오2] Deep Learning 자산배분 강화학습 포트폴리오</a>
+<!-- - <a href="https://churn-behavior-statistical-report.streamlit.app/" style="color: #4285f4; font-weight: bold;">[포트폴리오1] 통계분석 리포트 </a>
+ - <a href="https://rl-ppo-dash.streamlit.app/" style="color: #4285f4; font-weight: bold;">[포트폴리오1] Deep Learning 자산배분 강화학습 포트폴리오</a>-->
  - <a href="/assets/files/excel/deeplearning_행렬미분_원리구현.xlsm" style="color: #4285f4; font-weight: bold;" download>
-  [포트폴리오3_VBA 엑셀] deeplearning_행렬미분_원리구현.xlsx  [엑셀자료 ↓]</a>
- - <a href="/assets/files/excel/[금융수학]미분원리_채권듀레이션.xlsm" style="color: #4285f4; font-weight: bold;" download>
+  [포트폴리오1_VBA 엑셀] deeplearning_행렬미분_원리구현.xlsx  [엑셀자료 ↓]</a>
+<!-- - <a href="/assets/files/excel/[금융수학]미분원리_채권듀레이션.xlsm" style="color: #4285f4; font-weight: bold;" download>
   [포트폴리오4_엑셀] 금융수학_미분_원리_채권듀레이션.xlsx  [엑셀자료 ↓]
-</a>
+</a>-->
 
 
 <!--
